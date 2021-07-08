@@ -42,7 +42,6 @@ class BankAccount:
         self.balance *= self.int_rate
         return self
 
-
 first_user = User("Guido van Rossum", "guido@python.com" )
 second_user = User("Monty Python", "monty@python.com")
 third_user = User("Jacob Sexton", "jake@example.com")
